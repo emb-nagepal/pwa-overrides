@@ -1409,6 +1409,11 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@fooman/venia-ui-override-resolver@^1.0.0-rc.2":
+  version "1.0.0-rc.2"
+  resolved "https://registry.yarnpkg.com/@fooman/venia-ui-override-resolver/-/venia-ui-override-resolver-1.0.0-rc.2.tgz#019171753a8e785a3b3471cf221131908c0ae1f6"
+  integrity sha512-2i1TT8szBfPNLdQy01KfzhWXnj8LHXZnUjrHHmzgJ2gxMiZ44vACec7/w2YxqXT2znatsX733X348NgQz/hWDw==
+
 "@formatjs/ecma402-abstract@1.10.0":
   version "1.10.0"
   resolved "https://registry.yarnpkg.com/@formatjs/ecma402-abstract/-/ecma402-abstract-1.10.0.tgz#f51b9167535c9463113c24644de90262aa5d31a7"
