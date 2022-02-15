@@ -66,7 +66,7 @@ const Footer = props => {
                 </div>
                 <div>
                     <Link to="/greeting/itc store">
-                    <span className={classes.label}>ITC Store</span>
+                    <span className={classes.label}>Sample link</span>
                     </Link>
                 </div>
                 </div>
